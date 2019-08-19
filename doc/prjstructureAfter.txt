@@ -1,0 +1,23 @@
+.
+├── build
+├── CMakeLists.txt
+├── Debug
+├── doc
+│   ├── prjstructureAfter.txt
+│   └── prjstructureBefore.txt
+├── include
+│   └── helloworld.hpp
+├── Makefile
+├── prjstructureAfter.txt
+├── prjstructureBefore.txt
+├── Release
+├── src
+│   ├── CMakeLists.txt
+│   ├── helloworld
+│   │   ├── CMakeLists.txt
+│   │   └── helloworld.cpp
+│   └── main.cpp
+└── test
+    └── helloworldTest.cpp
+
+8 directories, 12 files
